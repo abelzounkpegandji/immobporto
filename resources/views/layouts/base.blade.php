@@ -5,7 +5,8 @@
 @include('layouts/includes.headerbody')
 
   <section id="main" >
-  	@yield('content')
+  	 @yield('content')
+
   </section><!-- fin main -->
   
 @include('layouts/includes.footer')

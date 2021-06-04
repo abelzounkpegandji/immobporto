@@ -11,9 +11,9 @@
       <nav id="navbar" class="navbar">
         <ul>
         <!--   <li><a class="nav-link scrollto active" href="#hero">Accueil</a></li>-->
-          <li><a class="nav-link scrollto" href="#about">Location</a></li>
-          <li><a class="nav-link scrollto" href="#about">Achat</a></li>
-          <li><a class="nav-link scrollto" href="#about">Publication</a></li>
+          <li><a class="nav-link scrollto" href="/Location">Location</a></li>
+          <li><a class="nav-link scrollto" href="/Achat">Achat</a></li>
+          <li><a class="nav-link scrollto" href="/Publication">Publication</a></li>
    <!--
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
